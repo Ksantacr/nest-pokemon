@@ -9,7 +9,6 @@ import { UpdatePokemonDto } from './dto/update-pokemon.dto';
 import { Model, isValidObjectId } from 'mongoose';
 import { Pokemon } from './entities/pokemon.entity';
 import { InjectModel } from '@nestjs/mongoose';
-import { tracingChannel } from 'diagnostics_channel';
 
 @Injectable()
 export class PokemonService {
