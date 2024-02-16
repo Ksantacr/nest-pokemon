@@ -5,13 +5,13 @@
 # Ejecutar en desarrollo
 
 1. Clonar el repositorio
-2. Ejecutar
+2. Instalar dependencias
 
 ```
 npm i
 ```
 
-3. Tener Nest CLI instalado
+3. Instalar Nest CLI
 
 ```
 npm i -g @nestjs/cli
